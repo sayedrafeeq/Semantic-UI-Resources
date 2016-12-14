@@ -16,3 +16,8 @@ Everything you need, in one place ( New snippets - missing elements and resource
 <li><a href="https://datatables.net/extensions/buttons/examples/styling/semanticui.html" target="_blank">Semantic-UI Extensions</a></li>
 <li><a href="https://datatables.net/examples/styling/semanticui.html" target="_blank">Semantic-UI DataTable Styling</a></li>
 </ul>
+
+<h2><a href="https://ehkoo.github.io/semantic-ui-examples/" target="_new"> Semantic UI examples</a></h2>
+<ul>
+<li>The goal of this project is to provide example pages built in Semantic UI, in a similiar way to Twitter Bootstrap 3. Most of them are directly converted from Twitter Bootstrap 3's couterpart.</li>
+</ul>
