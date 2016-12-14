@@ -1,3 +1,6 @@
+# <a href="http://www.semantic-ui.com/" target="_blank">Semantic-UI</a>
+Semantic is a UI component framework based around useful principles from natural language.
+
 # Semantic-UI-Resources
 Everything you need, in one place ( New snippets - missing elements and resources)
 
