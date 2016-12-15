@@ -20,7 +20,6 @@ Everything you need, in one place ( New snippets - missing elements and resource
 <ul>
 <li><a href="https://codepen.io/romanzipp/pen/XKvGXz" target="_blank">Semantic-UI Plan Select</a></li>
 <li><a href="https://codepen.io/caiosantossp/pen/vNazJy" target="_blank">Semantic-UI Plans Selector</a></li>
-<li><a href="http://www.semantickit.com/snippets/6-fixed-top-nav-bar" target="_blank">Fixed Top Nav Bar</a></li>
 </ul>
 
 <h2>DataTableJS - Extensions:</h2>
