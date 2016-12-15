@@ -21,3 +21,8 @@ Everything you need, in one place ( New snippets - missing elements and resource
 <li><a href="https://datatables.net/extensions/buttons/examples/styling/semanticui.html" target="_blank">Semantic-UI Extensions</a></li>
 <li><a href="https://datatables.net/examples/styling/semanticui.html" target="_blank">Semantic-UI DataTable Styling</a></li>
 </ul>
+
+<h2>Calendar Examples:</h2>
+<ul>
+	<li><a href="https://jsfiddle.net/sayedrafeeq/n1u0dL4k/1/" target="_blank">Semantic-UI Calendar Examples</a></li>
+</ul>
