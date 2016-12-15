@@ -4,10 +4,16 @@ Semantic is a UI component framework based around useful principles from natural
 # Semantic-UI-Resources
 Everything you need, in one place ( New snippets - missing elements and resources)
 
-<h2> Bootstrap 3 - Examples</h2>
+<h2>Layouts (Startup Templates)</h2>
+<ul>
+<li>Examples of using Semantic UI</li>
+<li><a href="http://semantic-ui.com/usage/layout.html" target="_new">Check out demos</a></li>
+</ul>
+
+<h2>Based on Bootstrap 3 - Examples</h2>
 <ul>
 <li>The goal of this project is to provide example pages built in Semantic UI, in a similiar way to Twitter Bootstrap 3. Most of them are directly converted from Twitter Bootstrap 3's couterpart.</li>
-<li><a href="https://ehkoo.github.io/semantic-ui-examples/" target="_new">Check out the demo</a></li>
+<li><a href="https://ehkoo.github.io/semantic-ui-examples/" target="_new">Check out demos</a></li>
 </ul>
 
 <h2>Code Snippets:</h2>
