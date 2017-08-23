@@ -20,6 +20,7 @@ Everything you need, in one place ( New snippets - missing elements and resource
 <ul>
 <li><a href="https://codepen.io/romanzipp/pen/XKvGXz" target="_blank">Semantic-UI Plan Select</a></li>
 <li><a href="https://codepen.io/caiosantossp/pen/vNazJy" target="_blank">Semantic-UI Plans Selector</a></li>
+<li><a href="https://codepen.io/tyleryasaka/pen/KVqPbo" target="_blank">Semantic UI Range</a></li>
 </ul>
 
 <h2>DataTableJS - Extensions:</h2>
@@ -32,3 +33,14 @@ Everything you need, in one place ( New snippets - missing elements and resource
 <ul>
 	<li><a href="https://jsfiddle.net/sayedrafeeq/n1u0dL4k/1/" target="_blank">Semantic-UI Calendar Examples</a></li>
 </ul>
+
+<h2>Articles</h2>
+<ul>
+	<li><a href="https://coderwall.com/p/ham3gg/move-over-bootstrap-and-foundation-welcome-semantic-ui" target="_blank">Move over Bootstrap and Foundation, welcome Semantic UI</a></li>
+</ul>
+
+<h2>Video Tutorials</h2>
+<ul>
+	<li><a href="https://youtu.be/a9mUH1EWp40" target="_blank">Semantic UI In 60 Minutes</a></li>
+</ul>
+
