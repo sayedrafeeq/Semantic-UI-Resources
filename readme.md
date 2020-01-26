@@ -18,9 +18,11 @@ Everything you need, in one place ( New snippets - missing elements and resource
 
 <h2>Code Snippets:</h2>
 <ul>
-<li><a href="https://codepen.io/romanzipp/pen/XKvGXz" target="_blank">Semantic-UI Plan Select</a></li>
-<li><a href="https://codepen.io/caiosantossp/pen/vNazJy" target="_blank">Semantic-UI Plans Selector</a></li>
+<li><a href="https://codepen.io/telatkaya/pen/dpPNWd" target="_blank">Semantic UI Admin Layout - Sidebar + Navbar</a></li>
+<li><a href="https://codepen.io/romanzipp/pen/XKvGXz" target="_blank">Semantic UI Plan Select</a></li>
+<li><a href="https://codepen.io/caiosantossp/pen/vNazJy" target="_blank">Semantic UI Plans Selector</a></li>
 <li><a href="https://codepen.io/tyleryasaka/pen/KVqPbo" target="_blank">Semantic UI Range</a></li>
+<li><a href="https://codepen.io/yowainwright/pen/ebEAF" target="_blank">Semantic UI, Vanilla, jDataTables with jEditable</a></li>
 </ul>
 
 <h2>DataTableJS - Extensions:</h2>
@@ -37,10 +39,11 @@ Everything you need, in one place ( New snippets - missing elements and resource
 <h2>Articles</h2>
 <ul>
 	<li><a href="https://coderwall.com/p/ham3gg/move-over-bootstrap-and-foundation-welcome-semantic-ui" target="_blank">Move over Bootstrap and Foundation, welcome Semantic UI</a></li>
-</ul>
+</ul>d
 
-<h2>Video Tutorials</h2>
+<h2>Video Tutorials 🎬</h2>
 <ul>
-	<li><a href="https://youtu.be/a9mUH1EWp40" target="_blank">Semantic UI In 60 Minutes</a></li>
+	<li><a href="https://youtu.be/a9mUH1EWp40" target="_blank">Semantic UI In 60 Minute</a></li>
+	<li><a href="https://www.youtube.com/watch?v=25I5ilb4wpw" target="_blank">Installing Semantic UI</a></li>
 </ul>
-
+	
