@@ -39,11 +39,11 @@ Everything you need, in one place ( New snippets - missing elements and resource
 <h2>Articles</h2>
 <ul>
 	<li><a href="https://coderwall.com/p/ham3gg/move-over-bootstrap-and-foundation-welcome-semantic-ui" target="_blank">Move over Bootstrap and Foundation, welcome Semantic UI</a></li>
-</ul>d
+</ul>
 
-<h2>Video Tutorials 🎬</h2>
+<h2>Video Tutorials</h2>
 <ul>
-	<li><a href="https://youtu.be/a9mUH1EWp40" target="_blank">Semantic UI In 60 Minute</a></li>
-	<li><a href="https://www.youtube.com/watch?v=25I5ilb4wpw" target="_blank">Installing Semantic UI</a></li>
+	<li><a href="https://youtu.be/a9mUH1EWp40" target="_blank">Semantic UI In 60 Minute 🎬</a></li>
+	<li><a href="https://www.youtube.com/watch?v=25I5ilb4wpw" target="_blank">Installing Semantic UI 🎬</a></li>
 </ul>
 	
